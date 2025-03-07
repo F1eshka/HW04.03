@@ -1,0 +1,14 @@
+C:\Users\Rog\source\repos\Server04.03\Server04.03\bin\Debug\net8.0\Server04.03.exe
+C:\Users\Rog\source\repos\Server04.03\Server04.03\bin\Debug\net8.0\Server04.03.deps.json
+C:\Users\Rog\source\repos\Server04.03\Server04.03\bin\Debug\net8.0\Server04.03.runtimeconfig.json
+C:\Users\Rog\source\repos\Server04.03\Server04.03\bin\Debug\net8.0\Server04.03.dll
+C:\Users\Rog\source\repos\Server04.03\Server04.03\bin\Debug\net8.0\Server04.03.pdb
+C:\Users\Rog\source\repos\Server04.03\Server04.03\obj\Debug\net8.0\Server04.03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rog\source\repos\Server04.03\Server04.03\obj\Debug\net8.0\Server04.03.AssemblyInfoInputs.cache
+C:\Users\Rog\source\repos\Server04.03\Server04.03\obj\Debug\net8.0\Server04.03.AssemblyInfo.cs
+C:\Users\Rog\source\repos\Server04.03\Server04.03\obj\Debug\net8.0\Server04.03.csproj.CoreCompileInputs.cache
+C:\Users\Rog\source\repos\Server04.03\Server04.03\obj\Debug\net8.0\Server04.03.dll
+C:\Users\Rog\source\repos\Server04.03\Server04.03\obj\Debug\net8.0\refint\Server04.03.dll
+C:\Users\Rog\source\repos\Server04.03\Server04.03\obj\Debug\net8.0\Server04.03.pdb
+C:\Users\Rog\source\repos\Server04.03\Server04.03\obj\Debug\net8.0\Server04.03.genruntimeconfig.cache
+C:\Users\Rog\source\repos\Server04.03\Server04.03\obj\Debug\net8.0\ref\Server04.03.dll
